@@ -1,6 +1,6 @@
 
 ## index.hbs
-tagline =  믿을 수 있고 효율적인 소프트웨어를 만드는 데 { $linebreak } 모두에게 힘을 주는 언어입니다.
+tagline = 믿을 수 있고 효율적인 소프트웨어를 만드는 데 { $linebreak } 모두에게 힘을 주는 언어입니다.
 get-started = 시작하기
 homepage-version = 버전 { $number }
 
