@@ -37,7 +37,7 @@ community-event-run =
           <p>
             여러분만의 행사 개최는 커뮤니티의 노력을 추적하는 데 도움이 되며, 발표자나 해당 지역의 다른 구성원과 연결할 수 있습니다.
           </p>
-community-events-repo = 이벤트 팀 리포지토 살펴보기
+community-events-repo = 이벤트 팀 리포지토리 살펴보기
 community-event-register = 행사 개최하기
 community-rustfest-alt = Rustfest 참가자들
 
@@ -53,7 +53,7 @@ community-rustbridge-rbr-alt = RustBridge at Rust Belt Rust
 
 community-irr-header = 러스트의 확대
 community-irr = 러스트의 리치 증대 프로그램은 5월 중순부터 8월 중순까지 3개월 간의 파트너십을 위해 러스트의 커뮤니티 및 기술 업계에서 충분히 나타나지 않은 개인과 프로젝트의 모든 부분의 러스트 사용자을 일치시키는 프로그램입니다. 각 파트너십은 러스트 프로젝트에 대한 주당 3시간 5시간 작업의 약속에 동의합니다.
-community-irr-button = 웹 사이트 방문하
+community-irr-button = 웹 사이트 방문하기
 
 community-standards-header = 커뮤니티 표준
 community-standards =
