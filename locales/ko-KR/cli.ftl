@@ -68,7 +68,7 @@ cli-example-link = 커맨드라인 더 알아보기
 
 ## templates/components/what/cli/production.hbs
 
-cli-production-sentry-img-alt = sentry 로
+cli-production-sentry-img-alt = sentry 로고
 cli-production-sentry-quote =
         우리가 러스트를 좋아했던 이유는 러스트의 crates.io 에코시스템입니다. [...]
         매우 훌륭한 커맨드라인 인터페이스를 구축하기 위해 이미 구축된 매우 좋은 인프라가 많이 있습니다.
